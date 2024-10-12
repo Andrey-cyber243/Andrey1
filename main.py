@@ -1,6 +1,16 @@
-example='Developer'
-print(example[0])
-print(example[-1])
-print(example[3:8])
-print(example[::-1])
-print(example[1:8:2])
+#"1-я программа"
+print(9**0.5*5)
+
+#"2-я программа"
+print(9.99>9.98,1000!=1000.1)
+
+#"3 программа"
+name=(2*2+2)
+print(name)
+b=(2*(2+2))
+print(b)
+print(name==b)
+
+#"4-я программа"
+print(int(float('123.456')*10)%10)
+
